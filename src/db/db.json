@@ -1,0 +1,44 @@
+{
+    "categorias":[
+        {"id":1,"nombre":"Carnes"},
+        {"id":2,"nombre":"Pescados"},
+        {"id":3,"nombre":"Verduras"},
+        {"id":4,"nombre":"Frutas"},
+        {"id":5,"nombre":"Lacteos"},
+        {"id":6,"nombre":"Cereales"},
+        {"id":7,"nombre":"Bebidas"},
+        {"id":8,"nombre":"Dulces"},
+        {"id":9,"nombre":"Congelados"},
+        {"id":10,"nombre":"Otros"
+    }
+
+    ],
+
+    "productos":[
+        {"id":1,"nombre":"Pollo","precio":1000,"categoria":1},
+        {"id":2,"nombre":"Pescado","precio":2000,"categoria":2},
+        {"id":3,"nombre":"Lechuga","precio":3000,"categoria":3},
+        {"id":4,"nombre":"Manzana","precio":4000,"categoria":4},
+        {"id":5,"nombre":"Queso","precio":5000,"categoria":5},
+        {"id":6,"nombre":"Arroz","precio":6000,"categoria":6},
+        {"id":7,"nombre":"Coca Cola","precio":7000,"categoria":7},
+        {"id":8,"nombre":"Galletas","precio":8000,"categoria":8},
+        {"id":9,"nombre":"Helado","precio":9000,"categoria":8},
+        {"id":10,"nombre":"Papas","precio":10000,"categoria":9},
+        {"id":11,"nombre":"Cerveza","precio":11000,"categoria":7},
+        {"id":12,"nombre":"Café","precio":12000,"categoria":7},
+        {"id":13,"nombre":"Pasta","precio":13000,"categoria":6},
+        {"id":14,"nombre":"Pera","precio":14000,"categoria":4},
+        {"id":15,"nombre":"Pepino","precio":15000,"categoria":3},
+        {"id":16,"nombre":"Cebolla","precio":16000,"categoria":3},
+        {"id":17,"nombre":"Tomate","precio":17000,"categoria":3},
+        {"id":18,"nombre":"Zanahoria","precio":18000,"categoria":3},
+        {"id":19,"nombre":"Papa","precio":19000,"categoria":3},
+        {"id":20,"nombre":"Cebolla","precio":20000,"categoria":3},
+        {"id":21,"nombre":"Cebolla","precio":21000,"categoria":3},
+        {"id":22,"nombre":"Cebolla","precio":22000,"categoria":3},
+        {"id":23,"nombre":"Cebolla","precio":23000,"categoria":3},
+        {"id":24,"nombre":"Cebolla","precio":24000,"categoria":3}
+
+    ]
+}
